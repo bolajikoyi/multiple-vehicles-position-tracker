@@ -63,7 +63,7 @@ setInterval(() => {
     }
     
     
-    // Uncomment if you want an unending loop
+    // Uncomment if you want an infinite loop
     // if(index == _max-1){
     //     index = 0
     // }
