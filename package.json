@@ -15,6 +15,8 @@
   "author": "Omobolaji Koyi",
   "license": "MIT",
   "dependencies": {
-    "kafkajs": "^1.15.0"
+    "express": "^4.17.2",
+    "kafkajs": "^1.15.0",
+    "socket.io": "^4.4.0"
   }
 }
