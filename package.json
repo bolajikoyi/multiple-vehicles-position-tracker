@@ -1,0 +1,20 @@
+{
+  "name": "bus-position-tracker",
+  "version": "1.0.0",
+  "description": "track buses and see their live positions on the map",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafkaJs",
+    "geojson.io",
+    "node.js",
+    "react"
+  ],
+  "author": "Omobolaji Koyi",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
