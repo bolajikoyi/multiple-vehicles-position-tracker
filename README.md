@@ -1,5 +1,7 @@
 # multiple-vehicles-position-tracker
 
+![alt text](client/public/multiple-trains.gif)
+
 To run the application, open three terminals in the directory of the root folder and enter the following commands.
 
 1.  `./start-client.sh` to start the frontend.
